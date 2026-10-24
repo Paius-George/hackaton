@@ -1,0 +1,52 @@
+{
+  "latitude": 44.4268,
+  "longitude": 26.1025,
+  "monthly_psh": [
+    1.3656,
+    2.2094,
+    3.4375,
+    4.8151,
+    5.8613,
+    6.3278,
+    6.4517,
+    5.7802,
+    4.2173,
+    2.7202,
+    1.5209,
+    1.1422
+  ],
+  "temperature_c": [
+    -1.58,
+    0.96,
+    6.33,
+    11.95,
+    17.9,
+    22.43,
+    25.01,
+    25.0,
+    19.44,
+    12.49,
+    6.33,
+    0.34
+  ],
+  "kind": "NASA_POWER_HORIZONTAL_CLIMATOLOGY",
+  "unit": "kWh/m²/day",
+  "header": {
+    "title": "NASA/POWER Source Native Resolution Climatology Climatologies",
+    "api": {
+      "version": "v2.10.1",
+      "name": "POWER Climatology API"
+    },
+    "sources": [
+      "MERRA2",
+      "SYN1DEG"
+    ],
+    "fill_value": -999.0,
+    "time_standard": "LST",
+    "range": "25-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2025)"
+  },
+  "source_url": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M&community=RE&latitude=44.4268&longitude=26.1025&format=JSON",
+  "fetched_at": "2026-10-24T19:47:14.984812+00:00",
+  "delivery": "live_api",
+  "warning": "Horizontal irradiance climatology, not tilted-plane PVGIS or current weather."
+}
