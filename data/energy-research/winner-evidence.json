@@ -1,0 +1,685 @@
+[
+  {
+    "file": "innovation-labs-prep/startup-shortlist.json",
+    "record": {
+      "id": "project-019",
+      "name": "Energy Agent AI",
+      "event": "Google Cloud ADK Hackathon",
+      "year": 2025,
+      "tier": 1,
+      "track": "AI Agents",
+      "placement": "North America regional winner",
+      "pitch": "Turns energy-customer analytics into targeted retention and marketing workflows.",
+      "tech_stack": [
+        "Google ADK",
+        "Gemini",
+        "BigQuery",
+        "XGBoost",
+        "SHAP",
+        "Streamlit"
+      ],
+      "why_it_won": "Explained predictions lead to concrete campaigns rather than stopping at a chart.",
+      "why_basis": "editorial inference",
+      "project_url": "https://devpost.com/software/energy-agent-ai",
+      "award_source_url": "https://cloud.google.com/blog/products/ai-machine-learning/adk-hackathon-results-winners-and-highlights",
+      "github_url": null,
+      "verification": "verified_award",
+      "verified_on": "2026-10-22",
+      "notes": "The submission uses simulated customer data; SHAP explains model predictions and does not establish causality.",
+      "target_customer_persona_and_pain_point": "Energy retailer retention analyst; scattered customer signals make intervention selection laborious. Buyer: customer operations lead.",
+      "weekend_validation_experiment": "Interview five analysts about a recent retention decision; use synthetic or authorized redacted records for one ranked worklist. Compare explanation usefulness and review effort; ask for a supervised pilot-scoping meeting, not a claimed churn reduction.",
+      "startup_lens_basis": "proposed persona, ROI hypothesis and experiment; not historical team evidence"
+    }
+  },
+  {
+    "file": "innovation-labs-prep/startup-shortlist.json",
+    "record": {
+      "id": "project-021",
+      "name": "GreenOps",
+      "event": "Google Cloud ADK Hackathon",
+      "year": 2025,
+      "tier": 1,
+      "track": "AI Agents / DevTools",
+      "placement": "Asia Pacific regional winner",
+      "pitch": "Coordinates agents to audit and optimize cloud sustainability.",
+      "tech_stack": [
+        "Google ADK",
+        "Gemini",
+        "BigQuery",
+        "Cloud Run",
+        "Climatiq",
+        "Streamlit"
+      ],
+      "why_it_won": "A practical operational target gives agent orchestration measurable outputs.",
+      "why_basis": "editorial inference",
+      "project_url": "https://devpost.com/software/greenops-gzp4aj",
+      "award_source_url": "https://cloud.google.com/blog/products/ai-machine-learning/adk-hackathon-results-winners-and-highlights",
+      "github_url": null,
+      "verification": "verified_award",
+      "verified_on": "2026-10-22",
+      "notes": null,
+      "target_customer_persona_and_pain_point": "Small cloud team investigating waste and emissions; audits require manual billing and configuration review. Buyer: engineering or FinOps lead.",
+      "weekend_validation_experiment": "Review one redacted billing export with three cloud leads and deliver a reviewed opportunity report. Count accepted actions, review time and verifiable estimates; seek access to a second export. Do not present projected savings as achieved savings.",
+      "startup_lens_basis": "proposed persona, ROI hypothesis and experiment; not historical team evidence"
+    }
+  },
+  {
+    "file": "data/curated.json",
+    "record": {
+      "name": "GridVeda",
+      "event": "TreeHacks",
+      "year": 2026,
+      "tier": 1,
+      "track": "AI/LLMs",
+      "primary_category": "AI/LLMs",
+      "categories": [
+        "AI/LLMs"
+      ],
+      "placement": "Stanford Ecopreneurship — Best prototyping process",
+      "pitch": "Runs edge-based monitoring to flag potential powerline failures for operators.",
+      "tech_stack": [
+        "Python",
+        "Jetson Nano",
+        "Nemotron",
+        "React",
+        "Node.js"
+      ],
+      "why_it_won": "A physical infrastructure target gives edge inference an understandable purpose.",
+      "why_basis": "editorial inference",
+      "project_url": "https://devpost.com/software/gridveda",
+      "award_source_url": "https://devpost.com/software/gridveda",
+      "github_url": "https://github.com/theraven5520/gridveda",
+      "verification": "verified_award",
+      "verified_on": "2026-10-22",
+      "notes": null,
+      "placement_class": "track",
+      "placement_ordinal": 999,
+      "source_record_id": "895a1ce2afb4e789",
+      "source_project_name": "GridVeda",
+      "id": "project-083"
+    }
+  },
+  {
+    "file": "data/generated-batch002-eth/verified.json",
+    "record": {
+      "id": "9e66765ae473188f",
+      "name": "OpenGrid",
+      "source": "ethglobal",
+      "source_url": "https://ethglobal.com/showcase/opengrid-68swe",
+      "pitch": "OpenGrid is a decentralized data exchange platform that makes Con Edison’s smart meter usage data queryable and tradable in a trustless way. The system leverages Chainlink Functions to fetch and verify real-world energy data, LayerZero for broadcasting that data between chains, and Flow, Hedera, and Polygon for hosting the different contracts. User",
+      "tech_stack": [],
+      "github_urls": [
+        "https://github.com/cobeml/open-grid"
+      ],
+      "awards": [
+        {
+          "event": "ETHGlobal New York 2025",
+          "event_url": "https://ethglobal.com/events/newyork2025",
+          "year": 2025,
+          "event_end_date": "2025-08-17",
+          "date_basis": "visible ETHGlobal event date",
+          "date_evidence_url": "https://ethglobal.com/events/newyork2025",
+          "placement": "Chainlink - Connect the World with Chainlink",
+          "kind": "winner",
+          "evidence_url": "https://ethglobal.com/showcase/opengrid-68swe",
+          "evidence_text": "Chainlink - Connect the World with Chainlink",
+          "verified": true
+        },
+        {
+          "event": "ETHGlobal New York 2025",
+          "event_url": "https://ethglobal.com/events/newyork2025",
+          "year": 2025,
+          "event_end_date": "2025-08-17",
+          "date_basis": "visible ETHGlobal event date",
+          "date_evidence_url": "https://ethglobal.com/events/newyork2025",
+          "placement": "Flow - Flow Builder Pool Prize",
+          "kind": "winner",
+          "evidence_url": "https://ethglobal.com/showcase/opengrid-68swe",
+          "evidence_text": "Flow - Flow Builder Pool Prize",
+          "verified": true
+        }
+      ],
+      "observed_at": "2026-10-22T16:55:14+00:00",
+      "why_it_won": null,
+      "tier": null,
+      "verification": "verified_award",
+      "observations": [
+        {
+          "id": "9e66765ae473188f",
+          "name": "OpenGrid",
+          "source": "ethglobal",
+          "source_url": "https://ethglobal.com/showcase/opengrid-68swe",
+          "pitch": "OpenGrid is a decentralized data exchange platform that makes Con Edison’s smart meter usage data queryable and tradable in a trustless way. The system leverages Chainlink Functions to fetch and verify real-world energy data, LayerZero for broadcasting that data between chains, and Flow, Hedera, and Polygon for hosting the different contracts. User",
+          "tech_stack": [],
+          "github_urls": [
+            "https://github.com/cobeml/open-grid"
+          ],
+          "awards": [
+            {
+              "event": "ETHGlobal New York 2025",
+              "event_url": "https://ethglobal.com/events/newyork2025",
+              "year": 2025,
+              "event_end_date": "2025-08-17",
+              "date_basis": "visible ETHGlobal event date",
+              "date_evidence_url": "https://ethglobal.com/events/newyork2025",
+              "placement": "Chainlink - Connect the World with Chainlink",
+              "kind": "winner",
+              "evidence_url": "https://ethglobal.com/showcase/opengrid-68swe",
+              "evidence_text": "Chainlink - Connect the World with Chainlink",
+              "verified": true
+            },
+            {
+              "event": "ETHGlobal New York 2025",
+              "event_url": "https://ethglobal.com/events/newyork2025",
+              "year": 2025,
+              "event_end_date": "2025-08-17",
+              "date_basis": "visible ETHGlobal event date",
+              "date_evidence_url": "https://ethglobal.com/events/newyork2025",
+              "placement": "Flow - Flow Builder Pool Prize",
+              "kind": "winner",
+              "evidence_url": "https://ethglobal.com/showcase/opengrid-68swe",
+              "evidence_text": "Flow - Flow Builder Pool Prize",
+              "verified": true
+            }
+          ],
+          "observed_at": "2026-10-22T16:55:14+00:00",
+          "why_it_won": null,
+          "tier": null,
+          "verification": "candidate"
+        }
+      ],
+      "stars": 0
+    }
+  },
+  {
+    "file": "data/generated-batch002-eth/verified.json",
+    "record": {
+      "id": "c2be69aa8ed8b7de",
+      "name": "Realtrack",
+      "source": "ethglobal",
+      "source_url": "https://ethglobal.com/showcase/realtrack-f4kyd",
+      "pitch": "RealTrack is a trustless IoT cold-chain monitoring system that ensures the integrity of temperature-sensitive shipments using decentralized storage, gasless execution, and stake-backed verification. IoT sensors stream telemetry—temperature, humidity, and RFID data—to a Gateway that batches readings, stores them on the Filecoin Onchain Cloud, comput",
+      "tech_stack": [],
+      "github_urls": [
+        "https://github.com/otaiki1/chaincold"
+      ],
+      "awards": [
+        {
+          "event": "ETHGlobal Buenos Aires",
+          "event_url": "https://ethglobal.com/events/buenosaires",
+          "year": 2025,
+          "event_end_date": "2025-11-23",
+          "date_basis": "visible ETHGlobal event date",
+          "date_evidence_url": "https://ethglobal.com/events/buenosaires",
+          "placement": "EVVM - Your custom Service or EVVM Chain 3rd place",
+          "kind": "winner",
+          "evidence_url": "https://ethglobal.com/showcase/realtrack-f4kyd",
+          "evidence_text": "EVVM - Your custom Service or EVVM Chain 3rd place",
+          "verified": true
+        },
+        {
+          "event": "ETHGlobal Buenos Aires",
+          "event_url": "https://ethglobal.com/events/buenosaires",
+          "year": 2025,
+          "event_end_date": "2025-11-23",
+          "date_basis": "visible ETHGlobal event date",
+          "date_evidence_url": "https://ethglobal.com/events/buenosaires",
+          "placement": "EVVM - Use the MATE Metaprotocol",
+          "kind": "winner",
+          "evidence_url": "https://ethglobal.com/showcase/realtrack-f4kyd",
+          "evidence_text": "EVVM - Use the MATE Metaprotocol",
+          "verified": true
+        },
+        {
+          "event": "ETHGlobal Buenos Aires",
+          "event_url": "https://ethglobal.com/events/buenosaires",
+          "year": 2025,
+          "event_end_date": "2025-11-23",
+          "date_basis": "visible ETHGlobal event date",
+          "date_evidence_url": "https://ethglobal.com/events/buenosaires",
+          "placement": "Symbiotic - Best Use of Symbiotic Relay SDK 5th place",
+          "kind": "winner",
+          "evidence_url": "https://ethglobal.com/showcase/realtrack-f4kyd",
+          "evidence_text": "Symbiotic - Best Use of Symbiotic Relay SDK 5th place",
+          "verified": true
+        }
+      ],
+      "observed_at": "2026-10-22T17:04:35+00:00",
+      "why_it_won": null,
+      "tier": null,
+      "verification": "verified_award",
+      "observations": [
+        {
+          "id": "c2be69aa8ed8b7de",
+          "name": "Realtrack",
+          "source": "ethglobal",
+          "source_url": "https://ethglobal.com/showcase/realtrack-f4kyd",
+          "pitch": "RealTrack is a trustless IoT cold-chain monitoring system that ensures the integrity of temperature-sensitive shipments using decentralized storage, gasless execution, and stake-backed verification. IoT sensors stream telemetry—temperature, humidity, and RFID data—to a Gateway that batches readings, stores them on the Filecoin Onchain Cloud, comput",
+          "tech_stack": [],
+          "github_urls": [
+            "https://github.com/otaiki1/chaincold"
+          ],
+          "awards": [
+            {
+              "event": "ETHGlobal Buenos Aires",
+              "event_url": "https://ethglobal.com/events/buenosaires",
+              "year": 2025,
+              "event_end_date": "2025-11-23",
+              "date_basis": "visible ETHGlobal event date",
+              "date_evidence_url": "https://ethglobal.com/events/buenosaires",
+              "placement": "EVVM - Your custom Service or EVVM Chain 3rd place",
+              "kind": "winner",
+              "evidence_url": "https://ethglobal.com/showcase/realtrack-f4kyd",
+              "evidence_text": "EVVM - Your custom Service or EVVM Chain 3rd place",
+              "verified": true
+            },
+            {
+              "event": "ETHGlobal Buenos Aires",
+              "event_url": "https://ethglobal.com/events/buenosaires",
+              "year": 2025,
+              "event_end_date": "2025-11-23",
+              "date_basis": "visible ETHGlobal event date",
+              "date_evidence_url": "https://ethglobal.com/events/buenosaires",
+              "placement": "EVVM - Use the MATE Metaprotocol",
+              "kind": "winner",
+              "evidence_url": "https://ethglobal.com/showcase/realtrack-f4kyd",
+              "evidence_text": "EVVM - Use the MATE Metaprotocol",
+              "verified": true
+            },
+            {
+              "event": "ETHGlobal Buenos Aires",
+              "event_url": "https://ethglobal.com/events/buenosaires",
+              "year": 2025,
+              "event_end_date": "2025-11-23",
+              "date_basis": "visible ETHGlobal event date",
+              "date_evidence_url": "https://ethglobal.com/events/buenosaires",
+              "placement": "Symbiotic - Best Use of Symbiotic Relay SDK 5th place",
+              "kind": "winner",
+              "evidence_url": "https://ethglobal.com/showcase/realtrack-f4kyd",
+              "evidence_text": "Symbiotic - Best Use of Symbiotic Relay SDK 5th place",
+              "verified": true
+            }
+          ],
+          "observed_at": "2026-10-22T17:04:35+00:00",
+          "why_it_won": null,
+          "tier": null,
+          "verification": "candidate"
+        }
+      ],
+      "stars": 0
+    }
+  },
+  {
+    "file": "data/generated-batch002-devpost/verified.json",
+    "record": {
+      "id": "06afe06e6fe9e1e0",
+      "name": "kassi: Autonomous Observability & Remediation Agent",
+      "source": "devpost",
+      "source_url": "https://devpost.com/software/kassi-synthetic-load-generation",
+      "pitch": "An AI agent on an audited state machine: it load-tests a code change, correlates the regression with Splunk telemetry, finds the root cause, and writes the fix, every step streamed back to Splunk.",
+      "tech_stack": [
+        "burr",
+        "k6",
+        "splunk",
+        "theodosia"
+      ],
+      "github_urls": [
+        "https://github.com/msradam/kassi"
+      ],
+      "awards": [
+        {
+          "event": "Splunk Agentic Ops Hackathon",
+          "event_url": "https://splunk.devpost.com",
+          "year": 2026,
+          "event_end_date": "2026-06-15",
+          "date_basis": "event JSON-LD endDate",
+          "date_evidence_url": "https://splunk.devpost.com/",
+          "placement": "Grand Prize",
+          "kind": "winner",
+          "evidence_url": "https://devpost.com/software/kassi-synthetic-load-generation",
+          "evidence_text": "Grand Prize",
+          "verified": true
+        }
+      ],
+      "observed_at": "2026-10-22T17:59:25+00:00",
+      "why_it_won": null,
+      "tier": null,
+      "verification": "verified_award",
+      "observations": [
+        {
+          "id": "06afe06e6fe9e1e0",
+          "name": "kassi: Autonomous Observability & Remediation Agent",
+          "source": "devpost",
+          "source_url": "https://devpost.com/software/kassi-synthetic-load-generation",
+          "pitch": "An AI agent on an audited state machine: it load-tests a code change, correlates the regression with Splunk telemetry, finds the root cause, and writes the fix, every step streamed back to Splunk.",
+          "tech_stack": [
+            "burr",
+            "k6",
+            "splunk",
+            "theodosia"
+          ],
+          "github_urls": [
+            "https://github.com/msradam/kassi"
+          ],
+          "awards": [
+            {
+              "event": "Splunk Agentic Ops Hackathon",
+              "event_url": "https://splunk.devpost.com",
+              "year": 2026,
+              "event_end_date": "2026-06-15",
+              "date_basis": "event JSON-LD endDate",
+              "date_evidence_url": "https://splunk.devpost.com/",
+              "placement": "Grand Prize",
+              "kind": "winner",
+              "evidence_url": "https://devpost.com/software/kassi-synthetic-load-generation",
+              "evidence_text": "Grand Prize",
+              "verified": true
+            }
+          ],
+          "observed_at": "2026-10-22T17:59:25+00:00",
+          "why_it_won": null,
+          "tier": null,
+          "verification": "candidate"
+        }
+      ],
+      "stars": 0
+    }
+  },
+  {
+    "file": "data/generated-batch002-devpost/verified.json",
+    "record": {
+      "id": "ba3cdf4aad46730a",
+      "name": "PERWER",
+      "source": "devpost",
+      "source_url": "https://devpost.com/software/perwer",
+      "pitch": "PERWER IoT System lets you remotely monitor power, optimise solar usage, cut running costs, get smart AI predictions and analyse data for your Mini Grids and Cell Towers.",
+      "tech_stack": [
+        "3dblender",
+        "3dprinting",
+        "arduinoide",
+        "c",
+        "c++",
+        "chatgpt",
+        "css",
+        "html5",
+        "javascript",
+        "json",
+        "machine-learning",
+        "onrender",
+        "perplexity",
+        "python",
+        "vercel",
+        "vscode"
+      ],
+      "github_urls": [],
+      "awards": [
+        {
+          "event": "Africa Deep Tech Challenge 2025",
+          "event_url": "https://adtc-2025.devpost.com",
+          "year": 2025,
+          "event_end_date": "2025-07-31",
+          "date_basis": "event JSON-LD endDate",
+          "date_evidence_url": "https://adtc-2025.devpost.com/",
+          "placement": "IHS Challenge Prize – Power Management Category",
+          "kind": "winner",
+          "evidence_url": "https://devpost.com/software/perwer",
+          "evidence_text": "IHS Challenge Prize – Power Management Category",
+          "verified": true
+        }
+      ],
+      "observed_at": "2026-10-22T18:00:10+00:00",
+      "why_it_won": null,
+      "tier": null,
+      "verification": "verified_award",
+      "observations": [
+        {
+          "id": "ba3cdf4aad46730a",
+          "name": "PERWER",
+          "source": "devpost",
+          "source_url": "https://devpost.com/software/perwer",
+          "pitch": "PERWER IoT System lets you remotely monitor power, optimise solar usage, cut running costs, get smart AI predictions and analyse data for your Mini Grids and Cell Towers.",
+          "tech_stack": [
+            "3dblender",
+            "3dprinting",
+            "arduinoide",
+            "c",
+            "c++",
+            "chatgpt",
+            "css",
+            "html5",
+            "javascript",
+            "json",
+            "machine-learning",
+            "onrender",
+            "perplexity",
+            "python",
+            "vercel",
+            "vscode"
+          ],
+          "github_urls": [],
+          "awards": [
+            {
+              "event": "Africa Deep Tech Challenge 2025",
+              "event_url": "https://adtc-2025.devpost.com",
+              "year": 2025,
+              "event_end_date": "2025-07-31",
+              "date_basis": "event JSON-LD endDate",
+              "date_evidence_url": "https://adtc-2025.devpost.com/",
+              "placement": "IHS Challenge Prize – Power Management Category",
+              "kind": "winner",
+              "evidence_url": "https://devpost.com/software/perwer",
+              "evidence_text": "IHS Challenge Prize – Power Management Category",
+              "verified": true
+            }
+          ],
+          "observed_at": "2026-10-22T18:00:10+00:00",
+          "why_it_won": null,
+          "tier": null,
+          "verification": "candidate"
+        }
+      ],
+      "stars": 0
+    }
+  },
+  {
+    "file": "data/generated-batch002-devpost/verified.json",
+    "record": {
+      "id": "f7aa2fc153bee05b",
+      "name": "SolarScope",
+      "source": "devpost",
+      "source_url": "https://devpost.com/software/solarscope",
+      "pitch": "Design Solar Smarter — From Satellite to System in Minutes.\r\nAI-powered solar design: analyze rooftops remotely, generate reports, and optimize systems—no site visit needed.",
+      "tech_stack": [
+        "boltai",
+        "google-maps",
+        "google-solar",
+        "netlify",
+        "react",
+        "superbase",
+        "tailwindcss",
+        "typescript"
+      ],
+      "github_urls": [],
+      "awards": [
+        {
+          "event": "World’s Largest Hackathon presented by Bolt",
+          "event_url": "https://worldslargesthackathon.devpost.com",
+          "year": 2025,
+          "event_end_date": "2025-06-30",
+          "date_basis": "event JSON-LD endDate",
+          "date_evidence_url": "https://worldslargesthackathon.devpost.com/",
+          "placement": "Regional Highlights | EMEA",
+          "kind": "winner",
+          "evidence_url": "https://devpost.com/software/solarscope",
+          "evidence_text": "Regional Highlights | EMEA",
+          "verified": true
+        }
+      ],
+      "observed_at": "2026-10-22T17:57:42+00:00",
+      "why_it_won": null,
+      "tier": null,
+      "verification": "verified_award",
+      "observations": [
+        {
+          "id": "f7aa2fc153bee05b",
+          "name": "SolarScope",
+          "source": "devpost",
+          "source_url": "https://devpost.com/software/solarscope",
+          "pitch": "Design Solar Smarter — From Satellite to System in Minutes.\r\nAI-powered solar design: analyze rooftops remotely, generate reports, and optimize systems—no site visit needed.",
+          "tech_stack": [
+            "boltai",
+            "google-maps",
+            "google-solar",
+            "netlify",
+            "react",
+            "superbase",
+            "tailwindcss",
+            "typescript"
+          ],
+          "github_urls": [],
+          "awards": [
+            {
+              "event": "World’s Largest Hackathon presented by Bolt",
+              "event_url": "https://worldslargesthackathon.devpost.com",
+              "year": 2025,
+              "event_end_date": "2025-06-30",
+              "date_basis": "event JSON-LD endDate",
+              "date_evidence_url": "https://worldslargesthackathon.devpost.com/",
+              "placement": "Regional Highlights | EMEA",
+              "kind": "winner",
+              "evidence_url": "https://devpost.com/software/solarscope",
+              "evidence_text": "Regional Highlights | EMEA",
+              "verified": true
+            }
+          ],
+          "observed_at": "2026-10-22T17:57:42+00:00",
+          "why_it_won": null,
+          "tier": null,
+          "verification": "candidate"
+        }
+      ],
+      "stars": 0
+    }
+  },
+  {
+    "file": "data/generated-batch002-final/verified.json",
+    "record": {
+      "id": "8228cfe2d51814ad",
+      "name": "EdgeFinder",
+      "source": "ethglobal",
+      "source_url": "https://ethglobal.com/showcase/edgefinder-vwc52",
+      "pitch": "This project is a full stack arbitrage prediction system built for prediction markets. It continuously monitors platforms like Polymarket and Kalshi, identifies markets that describe the same event, and highlights pricing gaps that represent high quality arbitrage opportunities. At the core is a custom vector search engine running on Supabase. Each",
+      "tech_stack": [],
+      "github_urls": [
+        "https://github.com/edgefinder-apps/edgefinder"
+      ],
+      "awards": [
+        {
+          "event": "ETHGlobal Buenos Aires",
+          "event_url": "https://ethglobal.com/events/buenosaires",
+          "year": 2025,
+          "event_end_date": "2025-11-23",
+          "date_basis": "visible ETHGlobal event date",
+          "date_evidence_url": "https://ethglobal.com/events/buenosaires",
+          "placement": "EVVM - Best integration using the MATE Metaprotocol 5th place",
+          "kind": "winner",
+          "evidence_url": "https://ethglobal.com/showcase/edgefinder-vwc52",
+          "evidence_text": "EVVM - Best integration using the MATE Metaprotocol 5th place",
+          "verified": true
+        },
+        {
+          "event": "ETHGlobal Buenos Aires",
+          "event_url": "https://ethglobal.com/events/buenosaires",
+          "year": 2025,
+          "event_end_date": "2025-11-23",
+          "date_basis": "visible ETHGlobal event date",
+          "date_evidence_url": "https://ethglobal.com/events/buenosaires",
+          "placement": "EVVM - Use the MATE Metaprotocol",
+          "kind": "winner",
+          "evidence_url": "https://ethglobal.com/showcase/edgefinder-vwc52",
+          "evidence_text": "EVVM - Use the MATE Metaprotocol",
+          "verified": true
+        }
+      ],
+      "observed_at": "2026-10-22T18:16:10+00:00",
+      "why_it_won": null,
+      "tier": null,
+      "verification": "verified_award",
+      "observations": [
+        {
+          "id": "8228cfe2d51814ad",
+          "name": "EdgeFinder",
+          "source": "ethglobal",
+          "source_url": "https://ethglobal.com/showcase/edgefinder-vwc52",
+          "pitch": "This project is a full stack arbitrage prediction system built for prediction markets. It continuously monitors platforms like Polymarket and Kalshi, identifies markets that describe the same event, and highlights pricing gaps that represent high quality arbitrage opportunities. At the core is a custom vector search engine running on Supabase. Each",
+          "tech_stack": [],
+          "github_urls": [
+            "https://github.com/edgefinder-apps/edgefinder"
+          ],
+          "awards": [
+            {
+              "event": "ETHGlobal Buenos Aires",
+              "event_url": "https://ethglobal.com/events/buenosaires",
+              "year": 2025,
+              "event_end_date": "2025-11-23",
+              "date_basis": "visible ETHGlobal event date",
+              "date_evidence_url": "https://ethglobal.com/events/buenosaires",
+              "placement": "EVVM - Best integration using the MATE Metaprotocol 5th place",
+              "kind": "winner",
+              "evidence_url": "https://ethglobal.com/showcase/edgefinder-vwc52",
+              "evidence_text": "EVVM - Best integration using the MATE Metaprotocol 5th place",
+              "verified": true
+            },
+            {
+              "event": "ETHGlobal Buenos Aires",
+              "event_url": "https://ethglobal.com/events/buenosaires",
+              "year": 2025,
+              "event_end_date": "2025-11-23",
+              "date_basis": "visible ETHGlobal event date",
+              "date_evidence_url": "https://ethglobal.com/events/buenosaires",
+              "placement": "EVVM - Use the MATE Metaprotocol",
+              "kind": "winner",
+              "evidence_url": "https://ethglobal.com/showcase/edgefinder-vwc52",
+              "evidence_text": "EVVM - Use the MATE Metaprotocol",
+              "verified": true
+            }
+          ],
+          "observed_at": "2026-10-22T18:16:10+00:00",
+          "why_it_won": null,
+          "tier": null,
+          "verification": "candidate"
+        }
+      ],
+      "stars": 0
+    }
+  },
+  {
+    "file": "data/curated.json",
+    "record": {
+      "id": "project-001",
+      "name": "HawkWatch",
+      "event": "TreeHacks",
+      "year": 2025,
+      "tier": 1,
+      "track": "AI / Consumer",
+      "placement": "Grand Prize / 1st place",
+      "pitch": "Turns camera feeds into incident alerts and timestamped evidence.",
+      "tech_stack": [
+        "Next.js",
+        "TypeScript",
+        "Gemini VLM",
+        "TensorFlow.js",
+        "Supabase",
+        "Resend"
+      ],
+      "why_it_won": "A visible detection-to-alert loop makes the value immediately demonstrable.",
+      "why_basis": "editorial inference",
+      "project_url": "https://devpost.com/software/hawkwatch",
+      "award_source_url": "https://devpost.com/software/hawkwatch",
+      "github_url": "https://github.com/Grace-Shao/Treehacks2025",
+      "verification": "verified_award",
+      "verified_on": "2026-10-22",
+      "notes": null
+    }
+  }
+]

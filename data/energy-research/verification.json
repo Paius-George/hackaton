@@ -1,0 +1,24 @@
+{
+  "mode": "OFFLINE_SYNTHETIC_TESTS_NOT_CUSTOMER_VALIDATION",
+  "checks": {
+    "three_sites_14days": true,
+    "energy_balance": true,
+    "battery_soc_bounds": true,
+    "battery_ac_power_limit": true,
+    "battery_internal_accounting": true,
+    "healthy_first_week": true,
+    "injected_18_percent": true,
+    "dispatch_no_spurious_pv_fault": true,
+    "legal_capacity_boundary": true,
+    "fixed_retail_not_spot": true,
+    "monthly_export_not_hourly_spot": true,
+    "quarter_hour_aggregation": true,
+    "missing_price_rejected": true,
+    "dashboard_has_source_labels": true,
+    "same_terminal_soc_dispatch_comparison": true,
+    "mocked_webhook_idempotency_no_network_sent": true
+  },
+  "live_PVGIS": "attempted; DNS resolution failed in shell",
+  "external_webhook": "not sent/not verified",
+  "artifact": "data/energy-demo/20261024T074224.210660Z/dashboard.json"
+}

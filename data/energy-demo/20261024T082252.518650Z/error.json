@@ -1,0 +1,4 @@
+{
+  "status": "FAILED_NO_SILENT_FALLBACK",
+  "error": "--send-tickets requires ENERGY_TICKET_WEBHOOK"
+}

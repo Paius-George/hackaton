@@ -1,0 +1,10 @@
+{
+  "import_mode": "fixed",
+  "import_ron_kwh": "1.30",
+  "import_adder_ron_kwh": "0.40",
+  "active_energy_ron_kwh": "0.60",
+  "monthly_weighted_pzu_ron_mwh": "500",
+  "battery_wear_ron_kwh_stored": "0.05",
+  "provenance": "ILLUSTRATIVE_NOT_A_REAL_CONTRACT_REPLACE_FROM_ACTUAL_DOCUMENTS",
+  "legal_source": "https://legislatie.just.ro/Public/DetaliiDocument/312476"
+}
