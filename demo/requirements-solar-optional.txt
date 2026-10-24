@@ -1,0 +1,5 @@
+# Optional local bill PDF/image extraction. Core pipeline remains stdlib-only.
+pypdf>=5.0
+Pillow>=11.0
+PyMuPDF>=1.24
+# Image OCR also requires the tesseract executable with eng language data.
